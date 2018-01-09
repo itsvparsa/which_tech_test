@@ -21,4 +21,4 @@ Before executing the tests on chrome browser make sure change the default driver
 
 # Test execution results copy
 
-https://user-images.githubusercontent.com/17201230/34749126-a3183cb4-f597-11e7-83ab-32b91c34e700.PNG
+[Click Here](https://user-images.githubusercontent.com/17201230/34749126-a3183cb4-f597-11e7-83ab-32b91c34e700.PNG)
