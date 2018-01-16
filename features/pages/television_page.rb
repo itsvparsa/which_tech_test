@@ -11,8 +11,3 @@ class TelevisionPage < SitePrism::Page
   element   :compare_bar,           "div.cont-products-compare.active"
 
 end
-
-
-
-
-

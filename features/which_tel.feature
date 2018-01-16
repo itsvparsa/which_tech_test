@@ -38,5 +38,3 @@ Examples:
     | Samsung |
     | LG      |
     | Sony    |
-
-
