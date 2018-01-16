@@ -7,10 +7,10 @@ Background:
   Given I am navigated to television reviews page
 
 Scenario: Confirm page sorted by most recently viewed by default
-  Then I verify page is sorted by most recently viewed
+  Then I verify page is sorted by "Most-recently reviewed"
 
 Scenario: I see following list of sort by options
-   Then I should see the following options within the sort by:
+  Then I should see the following options within the sort by:
       | Most-recently reviewed    |
       | Highest Which? score      |
       | Price (low to high)       |
@@ -38,11 +38,4 @@ Examples:
     | Samsung |
     | LG      |
     | Sony    |
-
-
-
-
-
-
-
 

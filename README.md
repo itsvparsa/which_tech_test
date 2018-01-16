@@ -18,3 +18,5 @@
 Note: I have used to Windows 10 to test locally using FireFox browser (need to configure the geckodriver path correctly) so I am assuming it should work well in chrome on Mac.
 
 Before executing the tests on Chrome browser make sure change the default driver to :chrome here in the path => features/support/drivers.rb
+
+https://user-images.githubusercontent.com/17201230/34749126-a3183cb4-f597-11e7-83ab-32b91c34e700.PNG
