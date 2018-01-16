@@ -15,9 +15,9 @@
 1. Navigate to the base directory
 2. Run `cucumber` command to execute all tests
 
-Note: I have used to Windows 10 to test locally using FireFox browser (need to configure the geckodriver path correctly) so I am assuming it should work well in chrome on Mac.
+Note: I have used Windows 10 to test locally using FireFox browser (need to download and configure the geckodriver path correctly) so I am assuming it should work well in chrome on Mac.
 
-Before executing the tests on Chrome browser make sure change the default driver to :chrome here in the path => features/support/drivers.rb
+# Test execution results copy
 
-https://user-images.githubusercontent.com/17201230/34749126-a3183cb4-f597-11e7-83ab-32b91c34e700.PNG
+[Click Here](https://user-images.githubusercontent.com/17201230/34749126-a3183cb4-f597-11e7-83ab-32b91c34e700.PNG)
 
